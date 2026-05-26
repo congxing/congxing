@@ -1,0 +1,40 @@
+{
+  "name": "Congxing Cai",
+  "current_role": "Partner and CTO at Embedding VC",
+  "location": "San Francisco Bay Area",
+  "summary": "AI founder-operator and builder-investor helping technical founders build AI-native products, teams, and companies.",
+  "themes": [
+    "AI products",
+    "ML systems",
+    "technical founders",
+    "startup team building",
+    "venture studio",
+    "talent intelligence",
+    "GenAI creative tools",
+    "Physical AI",
+    "LLM foundations"
+  ],
+  "past_roles": [
+    "Founder and CEO, Youpi Inc.",
+    "Head of Discover and Stories Engineering, Snap",
+    "Senior Software Engineer / Tech Lead, Google",
+    "Research Engineer / NLP Research Staff, USC/ISI"
+  ],
+  "products": [
+    {
+      "name": "Realm AI",
+      "description": "AI-native social creation app for generating and sharing multimodal visual stories."
+    },
+    {
+      "name": "Synco AI",
+      "description": "Real-time AI copilot combining streaming transcription and LLM reasoning for interviews and live conversations."
+    }
+  ],
+  "current_work": [
+    "AI investing",
+    "venture studio building",
+    "recruiting infrastructure",
+    "data and evaluation workflows",
+    "founder support"
+  ]
+}

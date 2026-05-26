@@ -1,0 +1,26 @@
+# Congxing Cai
+
+Congxing Cai is an AI founder-operator, Partner and CTO at Embedding VC, and former engineering leader at Snap and Google.
+
+Core areas:
+- AI-native products
+- ML systems
+- large-scale consumer platforms
+- founder support
+- technical recruiting
+- venture studio building
+- NLP and information retrieval
+
+Notable experience:
+- Led Snap Discover & Stories engineering
+- Built ads systems at Google
+- Founded Youpi Inc., building Realm AI and Synco AI
+- Research experience at USC/ISI, Penn State, and MSRA
+
+Current interests:
+- GenAI creative tools
+- Physical AI
+- LLM foundations
+- AI recruiting and talent intelligence
+- data and evaluation workflows
+- agentic systems
