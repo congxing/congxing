@@ -6,11 +6,11 @@ I help technical founders build AI-native products, teams, and companies.
 
 ## What I bring
 
-- Large-scale engineering leadership from Snap and Google
-- Founder experience from building AI products at Youpi
-- Deep technical foundation in NLP, ranking, recommendation systems, and applied AI
-- Practical GTM lessons from consumer AI product experiments
-- Experience helping founders with product strategy, technical architecture, hiring, and execution
+- Led an 80+ person engineering org at Snap, building Discover personalization to 200M+ daily viewers
+- Technical Lead at Google, launching Ads Reach solutions with sub-10ms latency and significant revenue impact
+- Founded Youpi: raised from top investors, built a 12-person team, launched 10+ AI consumer products including Realm AI and Synco AI
+- Deep technical foundation in NLP, ranking, and information retrieval (10+ research papers, TREC Best System award)
+- Practical GTM, pricing, hiring, and distribution lessons from 4+ years of consumer AI product experiments
 
 ## How I help founders
 

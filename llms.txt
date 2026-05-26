@@ -4,23 +4,29 @@ Congxing Cai is an AI founder-operator, Partner and CTO at Embedding VC, and for
 
 Core areas:
 - AI-native products
-- ML systems
-- large-scale consumer platforms
-- founder support
-- technical recruiting
-- venture studio building
+- ML systems and recommendation platforms
+- large-scale consumer platforms (200M+ users)
+- founder support and venture studio building
+- technical recruiting and talent intelligence
 - NLP and information retrieval
 
 Notable experience:
-- Led Snap Discover & Stories engineering
-- Built ads systems at Google
-- Founded Youpi Inc., building Realm AI and Synco AI
-- Research experience at USC/ISI, Penn State, and MSRA
+- Led Snap Discover & Stories engineering (80+ person org, 200M+ daily viewers, built personalization platform from ground up)
+- Technical Lead at Google (Ads Reach solutions, sub-10ms latency, revenue-critical systems)
+- Principal Software Engineer at Houzz (ads infrastructure, Redis Cluster migration)
+- Founded Youpi Inc. (raised from top investors, 12-person team, 10+ AI consumer products including Realm AI and Synco AI)
+- Research at USC/ISI (TREC 2011 Best System award, GeoXray acquired by TerraGo, 10+ papers)
+- Research at Penn State and Microsoft Research Asia (NLP, document retrieval, learning to rank)
+
+Education:
+- Penn State University (Ph.D Candidate and Master of Engineering, Computer Science)
+- University of Science and Technology of China (BS, Computer Science)
+- University of Southern California (Research Staff, Natural Language Processing)
 
 Current interests:
-- GenAI creative tools
-- Physical AI
-- LLM foundations
+- GenAI creative tools and AI film workflows
+- Physical AI and robotics
+- LLM foundations, evals, and data quality
 - AI recruiting and talent intelligence
 - data and evaluation workflows
-- agentic systems
+- agentic systems and workflow automation
