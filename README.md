@@ -10,7 +10,7 @@ Previously:
 - Founded Youpi, building Realm AI and Synco AI
 - Researched NLP, ranking, and information retrieval at USC/ISI, Penn State, and MSRA
 
-Current Lab:
+Embedding Lab:
 - Creative AI tools: experiments with AI film generation, multimodal storytelling, and creator workflows
 - Physical AI: notes and prototypes around robotics perception, embodied agents, and data pipelines
 - Recruiting intelligence: tools for sourcing, talent mapping, and founder hiring workflows
