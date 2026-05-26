@@ -5,7 +5,7 @@ Congxing Cai is an AI founder-operator, Partner and CTO at Embedding VC, and for
 Core areas:
 - AI-native products
 - ML systems and recommendation platforms
-- large-scale consumer platforms (200M+ users)
+- large-scale consumer platforms (200M+ daily viewers)
 - founder support and venture studio building
 - technical recruiting and talent intelligence
 - NLP and information retrieval

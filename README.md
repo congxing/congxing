@@ -6,7 +6,7 @@ I work on agentic systems, AI-native products, recruiting intelligence, and tool
 
 Previously:
 - Led Snap Discover & Stories engineering (80+ person org, 200M+ daily viewers)
-- Principal Engineer at Houzz (ads infrastructure, large-scale migrations)
+- Principal Software Engineer at Houzz (ads infrastructure, large-scale migrations)
 - Technical Lead at Google (Ads Reach solutions, sub-10ms latency)
 - Founded Youpi (raised from top investors, 12-person team, 10+ AI products including Realm AI and Synco AI)
 - Researched NLP, ranking, and information retrieval at USC/ISI, Penn State, and Microsoft Research Asia (TREC 2011 Best System award, 10+ papers)

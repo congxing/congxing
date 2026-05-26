@@ -10,7 +10,7 @@ I built my foundation in NLP, ranking, information retrieval, and social media s
 
 ## What I learned building at scale
 
-At Google, I led the design and launch of Ads Reach solutions across major customer-facing surfaces, built a team of 7 engineers, and worked with infrastructure teams to reduce service latency to ~10ms. At Snap, I led engineering for Discover & Stories, managing and scaling an 80+ person engineering org and building Snapchat's personalization platform from the ground up to 200M+ daily viewers. Between them, I was a Principal Engineer at Houzz, re-architecting ads systems and managing large-scale infrastructure migrations.
+At Google, I led the design and launch of Ads Reach solutions across major customer-facing surfaces, built a team of 7 engineers, and worked with infrastructure teams to reduce service latency to sub-10ms. At Snap, I led engineering for Discover & Stories, managing and scaling an 80+ person engineering org and building Snapchat's personalization platform from the ground up to 200M+ daily viewers. Between them, I was a Principal Software Engineer at Houzz, re-architecting ads systems and managing large-scale infrastructure migrations.
 
 ## What I learned founding Youpi
 
@@ -35,7 +35,7 @@ Areas I'm actively studying, building, and investing around:
 
 ## How I help founders
 
-I bring a rare combination of large-scale engineering leadership (80+ person org, 200M+ users), founder scar tissue (12-person team, 10+ products, raised funding), deep AI systems intuition (NLP research, TREC awards, 10+ papers), and practical GTM lessons to help technical founders avoid early traps and focus on the real bottlenecks sooner.
+I bring a rare combination of large-scale engineering leadership (80+ person org, 200M+ daily viewers), founder scar tissue (12-person team, 10+ products, raised funding), deep AI systems intuition (NLP research, TREC awards, 10+ papers), and practical GTM lessons to help technical founders avoid early traps and focus on the real bottlenecks sooner.
 
 - Clarify the real product and technical bottleneck
 - Review AI/ML architecture, evals, and product-quality loops

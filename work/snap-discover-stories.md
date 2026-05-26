@@ -28,4 +28,4 @@ Led the engineering organization behind Snapchat Discover & Stories during the p
 
 ## Why it matters now
 
-The Snap chapter is where I learned to operate at scale. Recommendation systems, content platforms, and personalization at 200M+ users gave me intuition for how AI-native products need to work in the real world. That experience directly informs how I help founders think about product-quality loops, ranking systems, and scaling engineering teams.
+The Snap chapter is where I learned to operate at scale. Recommendation systems, content platforms, and personalization at 200M+ daily viewers gave me intuition for how AI-native products need to work in the real world. That experience directly informs how I help founders think about product-quality loops, ranking systems, and scaling engineering teams.

@@ -2,7 +2,7 @@
 
 Congxing Cai is an AI founder-operator and Partner/CTO at Embedding VC, helping technical founders build AI-native products, teams, and companies.
 
-Previously, he led engineering for Snap Discover & Stories, managing an 80+ person engineering org and building Snapchat's personalization platform from the ground up to 200M+ daily viewers. Earlier, he was a Technical Lead at Google, leading the design and launch of Ads Reach solutions and working with infrastructure teams to reduce service latency to ~10ms.
+Previously, he led engineering for Snap Discover & Stories, managing an 80+ person engineering org and building Snapchat's personalization platform from the ground up to 200M+ daily viewers. Earlier, he was a Technical Lead at Google, leading the design and launch of Ads Reach solutions and working with infrastructure teams to reduce service latency to sub-10ms.
 
 He built his technical foundation in NLP, ranking, and information retrieval through research at USC/ISI, Penn State, and Microsoft Research Asia. At USC/ISI, he built a real-time Twitter search system awarded "Best System" at the 2011 TREC Microblog Track, a geographic summarization system later acquired by TerraGo, and co-authored 10+ research papers.
 
