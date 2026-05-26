@@ -1,6 +1,6 @@
 # Snap Discover & Stories
 
-Head of Discover and Stories Engineering, Snapchat Inc.
+Head of Discover and Stories Engineering, Snap Inc.
 October 2016 - February 2021 | San Francisco Bay Area
 
 ## Context

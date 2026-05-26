@@ -21,7 +21,6 @@ Notable experience:
 Education:
 - Penn State University (Ph.D Candidate and Master of Engineering, Computer Science)
 - University of Science and Technology of China (BS, Computer Science)
-- University of Southern California (Research Staff, Natural Language Processing)
 
 Current interests:
 - GenAI creative tools and AI film workflows

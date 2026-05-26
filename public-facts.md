@@ -8,6 +8,6 @@
 - Google: Technical Lead, led Ads Reach solutions, sub-10ms latency
 - Houzz: Principal Software Engineer, ads infrastructure and Redis Cluster migration
 - Founder experience: Youpi Inc. (raised from top investors, 12-person team, 10+ AI products), Realm AI, Synco AI
-- Research: USC/ISI (TREC 2011 Best System, GeoXray acquired by TerraGo, 10+ papers), Penn State, MSRA
-- Education: Penn State (Ph.D Candidate / M.Eng, CS), USTC (BS, CS), USC (Research Staff, NLP)
+- Research: USC/ISI (TREC 2011 Best System, GeoXray acquired by TerraGo, 10+ papers), Penn State, Microsoft Research Asia
+- Education: Penn State (Ph.D Candidate / M.Eng, CS), USTC (BS, CS)
 - Core areas: AI-native products, ML systems, recommendation platforms, technical founders, recruiting intelligence, venture studio building, NLP, information retrieval

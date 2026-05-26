@@ -12,7 +12,7 @@ Led the design and launch of Google Ads Reach solutions across major customer-fa
 - Led a multi-launch product roadmap with significant revenue impact across Google's advertising platform
 - Built and scaled a team of 7 engineers focused on ads reach solutions
 - Owned product architecture across algorithms, backend systems, UI/application logic, release operations, monitoring, and quality systems
-- Worked closely with infrastructure teams across networking, database, and storage layers to reduce service latency to ~10ms
+- Worked closely with infrastructure teams across networking, database, and storage layers to reduce service latency to sub-10ms
 
 ## What was technically hard
 

@@ -32,4 +32,4 @@ A real-time AI copilot combining streaming transcription and LLM reasoning to as
 
 ## Why it matters now
 
-The Youpi chapter is not two failures. It is one founder journey that produced hard-earned operating judgment. Those lessons are exactly what I bring to founders at Embedding VC: clear-eyed understanding of AI product timing, GTM reality, hiring traps, and the gap between a working demo and a working business.
+The Youpi chapter is one founder journey that produced hard-earned operating judgment. Those lessons are exactly what I bring to founders at Embedding VC: clear-eyed understanding of AI product timing, GTM reality, hiring traps, and the gap between a working demo and a working business.
