@@ -6,29 +6,49 @@
   "themes": [
     "AI products",
     "ML systems",
+    "recommendation platforms",
     "technical founders",
     "startup team building",
     "venture studio",
     "talent intelligence",
     "GenAI creative tools",
     "Physical AI",
-    "LLM foundations"
+    "LLM foundations",
+    "agentic workflows"
   ],
   "past_roles": [
     "Founder and CEO, Youpi Inc.",
     "Head of Discover and Stories Engineering, Snap",
-    "Senior Software Engineer / Tech Lead, Google",
-    "Research Engineer / NLP Research Staff, USC/ISI"
+    "Principal Software Engineer, Houzz",
+    "Technical Lead, Google",
+    "Research Engineer / NLP Research Staff, USC/ISI",
+    "Research Internship, Microsoft Research Asia"
   ],
   "products": [
     {
       "name": "Realm AI",
-      "description": "AI-native social creation app for generating and sharing multimodal visual stories."
+      "description": "Consistent-character social creation app for AI-powered visual stories."
     },
     {
       "name": "Synco AI",
-      "description": "Real-time AI copilot combining streaming transcription and LLM reasoning for interviews and live conversations."
+      "description": "Real-time AI copilot combining streaming transcription and LLM reasoning for live conversations."
+    },
+    {
+      "name": "GeoXray",
+      "description": "Geographic text summarization system, later acquired by TerraGo."
     }
+  ],
+  "achievements": [
+    "Scaled Snap Discover personalization to 200M+ daily viewers",
+    "Managed 80+ person engineering org at Snap",
+    "TREC 2011 Microblog Track Best System award",
+    "10+ research papers in NLP, search, and data integration",
+    "Raised from top investors and built 12-person team at Youpi",
+    "Launched 10+ AI consumer products"
+  ],
+  "education": [
+    "Penn State University, Ph.D Candidate and M.Eng, Computer Science",
+    "University of Science and Technology of China, BS, Computer Science"
   ],
   "current_work": [
     "AI investing",

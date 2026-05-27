@@ -6,17 +6,17 @@ I'm an AI founder-operator and Partner/CTO at Embedding VC, helping technical fo
 
 ## How I got here
 
-I built my foundation in NLP, ranking, information retrieval, and social media search through research at USC/ISI, Penn State, and MSRA. That work gave me a deep, pre-hype understanding of how language models, retrieval systems, and large-scale text processing actually work.
+I built my foundation in NLP, ranking, information retrieval, and social media search through research at USC/ISI, Penn State, and Microsoft Research Asia. At USC/ISI, I built a real-time Twitter search system awarded "Best System" at the 2011 TREC Microblog Track, a geographic summarization system (GeoXray) later acquired by TerraGo, and biomedical data integration systems for NIH research across six medical centers. I co-authored 10+ research papers. That work gave me a deep, pre-hype understanding of how language models, retrieval systems, and large-scale text processing actually work.
 
 ## What I learned building at scale
 
-At Google, I worked on ads and monetization systems — product launches, systems architecture, latency optimization, and cross-functional execution. At Snap, I led engineering for Discover & Stories, scaling personalized consumer systems to hundreds of millions of users across recommendation, content ecosystems, mobile/web infrastructure, and engineering team design.
+At Google, I led the design and launch of Ads Reach solutions across major customer-facing surfaces, built a team of 7 engineers, and worked with infrastructure teams to reduce service latency to sub-10ms. At Snap, I led engineering for Discover & Stories, managing and scaling an 80+ person engineering org and building Snapchat's personalization platform from the ground up to 200M+ daily viewers. Between them, I was a Principal Software Engineer at Houzz, re-architecting ads systems and managing large-scale infrastructure migrations.
 
 ## What I learned founding Youpi
 
-I founded Youpi to explore AI-native consumer products. We built Realm AI, a multimodal social creation app for generating and sharing AI-powered visual stories, and Synco AI, a real-time AI copilot combining streaming transcription and LLM reasoning for interviews and live conversations.
+I founded Youpi to explore AI-native consumer products. We raised from top investors and built a 12-person highly-calibrated team to launch 10+ AI consumer products, including Realm AI, a consistent-character social creation app for AI-powered visual stories, and Synco AI, a real-time AI copilot combining streaming transcription and LLM reasoning for live conversations.
 
-That journey produced hard-earned lessons across product strategy, ML systems, GTM, pricing, hiring, fundraising, and founder psychology — and a clear-eyed understanding of where AI creates real user value and where it does not.
+That journey produced hard-earned lessons across product strategy, ML systems, real-time AI infrastructure, GTM, pricing, hiring, fundraising, and founder psychology. It gave me a clear-eyed understanding of where AI creates real user value and where it does not.
 
 ## What I do now at Embedding VC
 
@@ -35,7 +35,7 @@ Areas I'm actively studying, building, and investing around:
 
 ## How I help founders
 
-I bring a rare combination of large-scale engineering leadership, founder scar tissue, deep AI systems intuition, and practical GTM lessons to help technical founders avoid early traps and focus on the real bottlenecks sooner.
+I bring a rare combination of large-scale engineering leadership (80+ person org, 200M+ daily viewers), founder scar tissue (12-person team, 10+ AI consumer products, raised funding), deep AI systems intuition (NLP research, TREC awards, 10+ papers), and practical GTM lessons to help technical founders avoid early traps and focus on the real bottlenecks sooner.
 
 - Clarify the real product and technical bottleneck
 - Review AI/ML architecture, evals, and product-quality loops
