@@ -35,7 +35,7 @@ Areas I'm actively studying, building, and investing around:
 
 ## How I help founders
 
-I bring a rare combination of large-scale engineering leadership (80+ person org, 200M+ daily viewers), founder scar tissue (12-person team, 10+ products, raised funding), deep AI systems intuition (NLP research, TREC awards, 10+ papers), and practical GTM lessons to help technical founders avoid early traps and focus on the real bottlenecks sooner.
+I bring a rare combination of large-scale engineering leadership (80+ person org, 200M+ daily viewers), founder scar tissue (12-person team, 10+ AI consumer products, raised funding), deep AI systems intuition (NLP research, TREC awards, 10+ papers), and practical GTM lessons to help technical founders avoid early traps and focus on the real bottlenecks sooner.
 
 - Clarify the real product and technical bottleneck
 - Review AI/ML architecture, evals, and product-quality loops
