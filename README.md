@@ -1,5 +1,3 @@
-# Congxing Cai
-
 Partner & CTO at Embedding VC. Former Snap and Google.
 
 I've built AI products that worked (Snap Discover, 200M+ daily) and ones
