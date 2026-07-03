@@ -1,29 +1,12 @@
 # Congxing Cai
 
-AI founder-operator and Partner/CTO at Embedding VC.
+Partner & CTO at Embedding VC. Former Snap and Google.
 
-I work on agentic systems, AI-native products, recruiting intelligence, and tools that help founders build faster.
+I've built AI products that worked (Snap Discover, 200M+ daily) and ones
+that didn't (Realm, Synco) — and I write about *specifically why* the
+failures failed. That diagnosis is the thing I know that most don't.
 
-Previously:
-- Led Snap Discover & Stories engineering (80+ person org, 200M+ daily viewers)
-- Principal Software Engineer at Houzz (ads infrastructure, large-scale migrations)
-- Technical Lead at Google (Ads Reach solutions, sub-10ms latency)
-- Founded Youpi (raised from top investors, 12-person team, 10+ AI consumer products including Realm AI and Synco AI)
-- Researched NLP, ranking, and information retrieval at USC/ISI, Penn State, and Microsoft Research Asia (TREC 2011 Best System award, 10+ papers)
+Now I help technical founders turn ambitious AI ideas into real products.
 
-Education:
-- Penn State University (Ph.D Candidate / M.Eng, Computer Science)
-- University of Science and Technology of China (BS, Computer Science)
-
-Embedding Lab:
-- Creative AI tools: experiments with AI film generation, multimodal storytelling, and creator workflows
-- Physical AI: notes and prototypes around robotics perception, embodied agents, and data pipelines
-- Recruiting intelligence: tools for sourcing, talent mapping, and founder hiring workflows
-- LLM foundations: evals, model behavior, data quality, and agent infrastructure
-
-Current interests:
-- AI agents as workflow systems
-- technical talent networks
-- multimodal creation tools
-- startup operating systems
-- applied evals and product-quality loops
+- 📝 Writing → <!-- TODO: writing-channel link -->
+- 🌐 More → <!-- TODO: homepage link -->
