@@ -6,5 +6,5 @@ failures failed. That diagnosis is the thing I know that most don't.
 
 Now I help technical founders turn ambitious AI ideas into real products.
 
-- 📝 Writing → <!-- TODO: writing-channel link -->
-- 🌐 More → <!-- TODO: homepage link -->
+- 📝 Writing → [homepage-base-to-base.vercel.app/writing](https://homepage-base-to-base.vercel.app/writing)
+- 🌐 More → [homepage-base-to-base.vercel.app](https://homepage-base-to-base.vercel.app)
